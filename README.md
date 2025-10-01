@@ -6,3 +6,4 @@ Funding for this initiative can be drawn from:
 	•	Supplementary Allocations: Balance to be covered by other support areas (e.g., Support Services or Corporate Services).
 
 This approach ensures the project is fully funded without requiring new or unplanned budget approvals, while also providing sufficient contingency to safeguard against delivery risks.
+To ensure adequate coverage for data migration and potential risks, we recommend allocating an additional 100 hours for data migration and 25 hours for contingency. This brings the revised total project cost to approximately CAD 105,000.
