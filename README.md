@@ -15,10 +15,27 @@ Importantly, the pilot reinforced—not diminished—the need for a centralized 
 In short, the Asana pilot demonstrated that while off-the-shelf tools may fall short, there remains a clear and growing organizational need for a project management solution—one designed specifically to align with FMB’s processes, technology, and collaboration requirements.
 While Asana was piloted across several departments, it did not prove to be a sustainable long-term solution. Feedback indicated that Asana is better suited for large-scale external implementations, whereas FMB’s needs focus on day-to-day project tracking, visibility, and collaboration across internal teams. As a result, many staff used Asana primarily as a personal task tracker rather than as a shared collaboration tool, which limited adoption and overall impact.
 
-By contrast, staff using Teamwork expressed strong commitment to the platform and a preference to continue using it. They emphasized that its core features—such as project tracking, time tracking, file attachments, and dashboards—are essential for their daily workflows. However, they also recognized that integration with the new CRM would be critical for long-term efficiency and sustainability.
+The communications team intends to use the intranet for several key purposes:
 
-Importantly, the mixed experience with Teamwork and Asana highlights that the need for a centralized project management solution remains clear. The Asana pilot reinforced—not diminished—the demand for a robust tool by revealing two critical gaps: (1) the lack of integration with FMB’s CRM and workflows, and (2) insufficient adoption features aligned with how FMB teams collaborate internally.
+1. Centralized Communication:
+- Share CEO messages and quick video updates
+- Post press releases and social media alerts
+- Provide easy access to organizational policies and documents
 
-To address this, the proposed CRM-based solution has been designed using Teamwork’s well-regarded functionalities as the baseline. These features were reviewed by Asana users, who confirmed that they would meet their basic project management needs, while also identifying opportunities for additional enhancements (e.g., color-coded task prioritization, shared calendars, and improved reporting). This ensures the new solution is both familiar enough to support current workflows and tailored enough to overcome the challenges that limited Asana’s success.
+2. Knowledge Sharing:
+- Share "tips and tricks" from the communications team
+- Highlight style guide updates
+- Provide quick organizational updates and achievements
 
+3. Employee Engagement:
+- Create a platform for informal staff interactions
+- Allow quasi-personal sharing (like congratulations, fundraising efforts)
+- Potentially replace or supplement the current staff newsletter
+
+4. Accessibility:
+- Make important information easily findable
+- Integrate with existing Microsoft tools like Teams and SharePoint
+- Provide a centralized location for organizational communication
+
+The primary goals are to improve communication, increase staff engagement, and create a more accessible information-sharing platform. The team wants a solution that is user-friendly, can be used by leadership to set an example, and helps keep employees informed about organizational activities and updates.
 In short, while Asana was not a successful long-term pilot, the experience provided valuable insight into what FMB requires. The new CRM-integrated solution builds on proven Teamwork features, incorporates feedback from both user groups, and is positioned to deliver the visibility, collaboration, and scalability that Asana could not
