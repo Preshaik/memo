@@ -1,20 +1,4 @@
 # memo   hfhhhfhhh
-Based on vendor estimates, the development effort for this solution is CAD 62,900. Importantly, this cost can be absorbed under the existing CRM service-level agreement (SLA) with no recurring licensing fees. Funding can be drawn from the remaining CRM budget within ILER (CAD 45,000), supplemented by available allocations from other support areas (e.g., Support Services or CS). To mitigate delivery risks, we propose adding 100 hours for data migration and 25 hours contingency, over and above the vendor’s initial 185-hour allocation.
-With these additions, the revised estimated cost for this solution is approximately CAD 105,000.
-Funding for this initiative can be drawn from:
-	•	Remaining CRM Budget within ILER: CAD 45,000 confirmed.
-	•	Supplementary Allocations: Balance to be covered by other support areas (e.g., Support Services or Corporate Services).
-
-This approach ensures the project is fully funded without requiring new or unplanned budget approvals, while also providing sufficient contingency to safeguard against delivery risks.
-To ensure adequate coverage for data migration and potential risks, we recommend allocating an additional 100 hours for data migration and 25 hours for contingency. This brings the revised total project cost to approximately CAD 105,000.
-Deferring the implementation of the project management solution to a future fiscal year carries significant risks. Costs are likely to increase due to inflation, vendor rate changes, or evolving technical requirements. Delays would also prolong reliance on Teamwork, limiting CRM integration and creating inefficiencies in reporting and data consistency. In addition, postponement may lead to higher development effort if vendor resources or technical dependencies shift. Proceeding now positions FMB to capitalize on current vendor availability, avoid cost escalation, and prevent further system fragmentation.
-While Asana was piloted across several departments, it did not prove to be a sustainable long-term solution. Feedback indicated that Asana is better suited for large-scale external implementations, whereas FMB’s needs focus on day-to-day project tracking, visibility, and collaboration across internal teams. As a result, many staff ended up using Asana as a personal task tracker rather than a shared collaboration tool, limiting its overall impact.
-
-Importantly, the pilot reinforced—not diminished—the need for a centralized project management solution. The experience highlighted two key gaps: (1) the absence of integration with FMB’s CRM and workflows, and (2) the lack of adoption features tailored to FMB’s internal collaboration style. Addressing these gaps requires a purpose-built solution that is embedded within the CRM, provides transparency across projects, and supports both operational needs and executive oversight.
-
-In short, the Asana pilot demonstrated that while off-the-shelf tools may fall short, there remains a clear and growing organizational need for a project management solution—one designed specifically to align with FMB’s processes, technology, and collaboration requirements.
-While Asana was piloted across several departments, it did not prove to be a sustainable long-term solution. Feedback indicated that Asana is better suited for large-scale external implementations, whereas FMB’s needs focus on day-to-day project tracking, visibility, and collaboration across internal teams. As a result, many staff used Asana primarily as a personal task tracker rather than as a shared collaboration tool, which limited adoption and overall impact.
-
 The communications team intends to use the intranet for several key purposes:
 
 1. Centralized Communication:
@@ -196,4 +180,39 @@ However, more robust oversight features like complex approvals would likely requ
 4. Any additional sophisticated monitoring capabilities will need further scoping and might incur extra development costs
 
 The key message is to be transparent that basic oversight is included, but advanced features will need further discussion and potentially additional investment.
+
+Based on the transcript, Graham briefly mentioned project confidentiality, suggesting it can be handled through security rules. Specifically, he estimated about 5-10 hours of work to set up project confidentiality mechanisms, which would involve:
+
+- Creating specific security roles
+- Setting up business units differently
+- Ensuring certain team members cannot see specific projects
+
+When discussing with Scott, you can say:
+1. The system will support project confidentiality through robust security settings
+2. Only authorized personnel will be able to access specific project information
+3. Security rules can be configured to restrict project visibility
+4. This functionality is part of the initial scope, with minimal additional effort required
+
+The core message is that project confidentiality can be managed within the proposed solution through carefully configured security rules.
+
+Based on the discussion, here's what was said about tagging:
+
+Graham and the team interpreted tagging as primarily about task assignment and notifications. Specifically:
+
+1. Task Assignment Functionality:
+- Out of the box, users can create tasks and assign them to specific team members
+- When a task is assigned, it will appear in the assignee's project list
+- Notifications about task assignments are included in the base functionality
+
+2. Team's Perspective:
+-  suggested Scott might be more interested in notification capabilities
+- The team believes more clarity is needed from Scott about his exact tagging requirements
+
+Recommended communication:
+- Basic task assignment and notification features are included in the initial build
+- Users can assign tasks and get notifications within the project management system
+- If he has more specific tagging needs, they would like him to provide more details
+- Advanced tagging features could potentially be considered in a future phase
+
+The key message is that basic tagging/assignment functionality is already included, but they're open to understanding if Scott needs more sophisticated tagging capabilities.
 
