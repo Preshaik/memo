@@ -122,6 +122,61 @@ Key Takeaways for Scott
 	•	Optional Features (Phase 2): Outlook integration, executive dashboards, advanced confidentiality controls, and enhanced tagging can be added later with additional cost.
 	•	Decision Needed: Which of these features are must-haves from the beginning (Phase 1) versus which can be deferred to Phase 2?
 
+1. Confidence in Features vs. Leading PM Tools / Demo Availability
+	•	Vendor Response: The solution is designed as a near replacement of Teamwork. It is not intended to exceed the advanced capabilities of leading PM applications (such as billing modules, advanced dashboards, or schedule boards).
+	•	FMB Recommendation: From our perspective, the immediate organizational need is to provide a functional replacement for Teamwork that can be adopted quickly across departments. This baseline solution addresses the critical pain points identified in consultations and ensures continuity of project tracking without overcomplicating the tool at launch. While it will not replicate every advanced feature found in top-tier PM platforms, we believe this approach minimizes disruption and risk. Should the organization later require advanced PM capabilities (e.g., complex resource allocation or financial integration), these can be considered as part of a second phase.
+	•	Budget Impact: No additional cost if limited to the Teamwork replacement scope.
+
+⸻
+
+2. Outlook Integration (Tasks from Email)
+	•	Vendor Response: Outlook integration (creating tasks directly from emails) is not available out-of-the-box and would require further estimation and budget.
+	•	FMB Recommendation: This feature could improve adoption and efficiency, as many staff rely heavily on email workflows. However, it is not essential for the core function of managing and tracking projects. We recommend proceeding without this integration in Phase 1 to keep the project cost-effective and avoid delays. If adoption of the core tool is strong, Outlook integration can be revisited in Phase 2 as a valuable enhancement.
+	•	Budget Impact: Additional cost to be determined if prioritized.
+
+⸻
+
+3. Executive Oversight & Monitoring
+	•	Vendor Response: Some oversight will be possible under the current scope through simple reporting and security controls. More advanced executive dashboards or cross-departmental roll-ups would require additional development and cost.
+	•	FMB Recommendation: For Phase 1, we recommend leveraging the baseline reporting available. This will provide executives with basic visibility into projects without requiring custom development. Once the tool is operational and adoption stabilizes, we can evaluate whether more sophisticated executive dashboards or oversight features are necessary and worth the investment. This phased approach avoids unnecessary upfront costs while keeping the door open for future enhancement.
+	•	Budget Impact: Partial coverage in current estimate; additional scope may increase cost.
+
+⸻
+
+4. Delegate Functionality (EA Team Support)
+	•	Vendor Response: Ownership in CRM is not exclusive; support delegation is fully available and included in the initial budget.
+	•	FMB Recommendation: This feature directly supports executive workflows by allowing EAs and support staff to manage tasks on behalf of executives. Because it is already included in the baseline, we recommend fully adopting it from Phase 1 to maximize efficiency and reduce administrative bottlenecks.
+	•	Budget Impact: No additional cost (included in budget).
+
+⸻
+
+5. Confidential Project Handling (Visibility Controls)
+	•	Vendor Response: Basic visibility controls will be available under the initial estimate. However, advanced mechanisms for restricting sensitive projects (e.g., tiered access controls or security frameworks) would require additional estimation and budget.
+	•	FMB Recommendation: While confidentiality is important, the majority of projects managed in this tool do not require advanced restrictions. We recommend proceeding with the baseline security functionality for Phase 1. If, after implementation, we find certain projects require more nuanced controls, we can then engage the vendor to scope advanced confidentiality options as part of a later phase. This staged approach ensures sensitive needs are addressed without overengineering the initial build.
+	•	Budget Impact: Basic controls included; advanced scope would increase cost.
+
+⸻
+
+6. Tagging Users Across Functions
+	•	Vendor Response: Assignment of a single user is included in the initial budget. Multi-user tagging, or using tags as a notification mechanism, would require additional cost.
+	•	FMB Recommendation: Tagging multiple users could improve collaboration, but it is not critical to the initial rollout of the tool. To reduce complexity at launch, we recommend limiting Phase 1 to the standard single-user assignment functionality. If usage shows demand for advanced tagging across functions, this can be assessed for Phase 2. This ensures the project starts with a clear, manageable scope, while leaving room for enhancements later.
+	•	Budget Impact: Included for single-user; additional cost for multi-user tagging.
+
+⸻
+
+7. Time Tracking Functionality
+	•	Vendor Response: Fully available and included in the initial budget estimate.
+	•	FMB Recommendation: Time tracking was specifically requested by several teams and is included within the baseline. We recommend implementing this functionality from the start, as it provides measurable value to project reporting without increasing cost. This will allow FMB to better understand resource usage and project effort, supporting both staff and executive oversight.
+	•	Budget Impact: No additional cost (included).
+
+⸻
+
+Final Recommendation
+
+Our recommendation is to proceed with Phase 1, which establishes a simple, reliable project management framework that meets the core needs of the FMS Support Services team and other departments. This ensures we quickly replace Teamwork with a practical solution that staff can adopt immediately.
+
+While some additional functionalities (such as Outlook integration, executive dashboards, advanced security, and multi-user tagging) may provide value, they also increase cost and complexity. We suggest deferring these to a Phase 2 discussion, once the core tool is in place and its adoption evaluated.
+
+At this stage, we ask for Scott’s guidance on which, if any, of these additional features should be considered essential for Phase 1. This will allow us to finalize scope and budget with the vendor while balancing the need for immediate usability against the desire for advanced features.
 
 
-collaboration, and scalability that Asana could not
