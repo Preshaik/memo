@@ -179,4 +179,21 @@ While some additional functionalities (such as Outlook integration, executive da
 
 At this stage, we ask for Scott’s guidance on which, if any, of these additional features should be considered essential for Phase 1. This will allow us to finalize scope and budget with the vendor while balancing the need for immediate usability against the desire for advanced features.
 
+Here's a concise summary of the executive oversight discussion:
+
+Graham explained that executive oversight capabilities depend on how Scott defines them. Currently, the solution can provide:
+- Basic read permissions for executives to see everything their staff are doing
+- Dashboarding
+- Reporting
+- Notifications
+
+However, more robust oversight features like complex approvals would likely require additional budget beyond the current project scope.
+
+
+1. The initial build will include basic dashboard and reporting capabilities
+2. Executives can have read access to project information
+3. More advanced oversight features can be discussed as a potential phase two enhancement
+4. Any additional sophisticated monitoring capabilities will need further scoping and might incur extra development costs
+
+The key message is to be transparent that basic oversight is included, but advanced features will need further discussion and potentially additional investment.
 
