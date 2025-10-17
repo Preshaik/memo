@@ -113,6 +113,81 @@ Thank you. Yes, but yeah, I'll send you the stats the KPIs workbook, and then yo
 
 Unknown 14:20
 Thank you so much.
-
 Unknown 14:26
-Okay, thank you so much, Sarah. I really appreciat
+
+Here's a draft email for Vananh:
+
+Subject: CRM Data Tracking Meeting - Key Insights and Questions
+
+Hi Vananh,
+
+Following our recent CRM data tracking meeting with Sarah, I wanted to highlight several important points:
+
+Data Tracking Needs:
+1. Ability to track staff time spent on different projects and client interactions
+2. Capture specific KPIs for corporate plan and annual report, including:
+   - Number of First Nations with a foul
+   - Number of First Nations with a foul by province
+   - Number of active clients in different service areas
+
+Reporting Requirements:
+- Need to pull stats as of specific dates (March 31 for annual report, January 31 for corporate plan)
+- Flexibility in report formatting is acceptable
+- Possibility of creating a separate spreadsheet to extract required information
+
+Key Questions Requiring Clarity:
+1. How will corporate goals be integrated into the new CRM?
+2. Will goal tracking be comprehensive across all FMB business lines or siloed?
+3. What is the plan for tracking goals that may not directly relate to CRM work?
+
+Additional Request:
+Robert suggested having admins update post-event tracking by checking off nations attended in the CRM system.
+
+Sarah will be following up with Scott about specific reporting needs and is open to using Power BI for custom dashboards.
+
+Please review and let me know your thoughts.
+
+Best regards,
+Precious
+
+
+
+Subject: CRM Data Tracking Meeting - Key Insights and Questions
+
+Hi Vananh,
+
+Following our recent CRM data tracking meeting with Sarah, I wanted to highlight several important points:
+
+Data Tracking Needs:
+1. Ability to track staff time spent on different projects and client interactions
+2. Capture specific KPIs for corporate plan and annual report
+
+Workbook Details:
+- Sarah has shared the workbook they currently use for both the annual report and corporate plan
+- This workbook contains stats and KPIs
+- They complete this exercise twice a year
+- Corporate plan stats are as of January 31st
+- Annual report stats are as of March 31st
+
+Reporting Requirements:
+- The new CRM report does NOT need to look exactly like the current workbook
+- We just need a way to pull these key stats for use in the report and plan
+- Flexibility in report formatting is acceptable
+
+Key Questions Requiring Clarity:
+1. How will corporate goals be integrated into the new CRM?
+2. Will goal tracking be comprehensive across all FMB business lines?
+3. What is the plan for tracking goals that may not directly relate to CRM work?
+
+Additional Request:
+Robert suggested having admins update post-event tracking by checking off nations attended in the CRM system.
+
+Sarah will be following up with Scott about specific reporting needs and is open to using Power BI for custom dashboards.
+
+Attached: Annual Report and Corporate Plan KPIs Workbook
+
+Please review and let me know your thoughts.
+
+Best regards,
+Precious
+
