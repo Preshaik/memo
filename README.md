@@ -1,115 +1,62 @@
-Department / Group
-Typical Roles
-Level of CRM Interaction
-Description of Work / Impact
-Change Management Focus
-FMSS (Financial Management System Support Services)
-Financial officers, project coordinators, analysts
-High (Daily Users)
-Provides financial and administrative support tailored to the unique needs of communities. CRM will centralize client project data, financial tracking, and reporting, replacing multiple manual processes.
-Focus on hands-on training, process mapping, and early testing to ensure smooth data entry and reporting workflows. Reinforce data accuracy and efficiency as key benefits.
-IELR (Indigenous Engagement, Law & Relations)
-Relationship managers, legal counsel, paralegals
-High (Client-Facing, Daily Users)
-Highly client-facing group managing engagements, legal documentation, and partnership tracking. CRM will serve as their main hub for client communication, case tracking, and collaboration with other departments.
-Focus on change readiness, user feedback loops, and user experience improvements. Highlight how CRM enhances client visibility and cross-team collaboration.
-Default Management Prevention Pilot
-Governance advisors, relationship officers
-Moderate to High (Frequent Users)
-Works with communities to build governance strength, restore financial autonomy, and uphold First Nation-led decision-making. CRM will help document engagement, monitor progress, and report outcomes.
-Focus on demonstrating CRM’s role in transparency and progress tracking. Offer scenario-based training to show how CRM supports community outcomes.
-CDI (Community Development Initiatives)
-Relationship managers, advisors, project leads
-High (Client-Facing, Frequent Users)
-Supports clients through capacity-building and project support activities. CRM will help track client milestones, interventions, and success metrics.
-Focus on showing CRM as a collaboration and tracking tool. Reinforce value in simplifying documentation and improving coordination with other teams.
-Strategic Opportunities (SO)
-Legal counsel, data analysts, program officers
-Moderate (Analytical Users)
-Manages strategic partnerships, data insights, and special initiatives. CRM will provide integrated data for analysis, legal reviews, and decision support.
-Focus on data consistency and analytics benefits. Offer tailored training on data extraction, dashboards, and reporting tools.
-Corporate Services (CS)
-Finance, IT, payroll, administration, procurement
-Low to Moderate (Support Users)
-Internal service teams supporting organizational operations (not client-facing). CRM may be used for internal coordination, budget alignment, and data requests.
-Focus on awareness and support alignment. Highlight how CRM enhances cross-department efficiency and transparency.
-Communications & Public Affairs (PA)
-Communications officers, engagement specialists
-Low to Moderate (Occasional Users)
-Uses CRM data for internal communications, press releases, and engagement tracking. CRM supports them with accurate, current information for messaging.
-Focus on awareness and consistent messaging. Ensure they have access to project updates and visuals to support change campaigns.
-Board Secretariat / Executive Office
-Executive assistants, Board liaisons
-Low (Dashboard Users)
-Relies on CRM for reports, leadership dashboards, and strategic overviews rather than direct input.
-Focus on value demonstration and assurance. Provide concise updates and emphasize the CRM’s role in visibility and informed decision-making.
-Regional Offices (Ottawa, Winnipeg, Vancouver, Montreal)
-Regional leads, client support officers
-Mixed (Varies by Region)
-Provides localized support to communities, often entering or updating client data, and coordinating engagements with headquarters.
-Focus on inclusive communication and access. Offer tailored training and ensure equitable support across locations.
-Executive Leadership (CEO, Directors)
-CEO, Executive Chair, Directors
-Low to Moderate (Decision Makers)
-Oversees CRM implementation, monitors progress and outcomes, and reinforces adoption through leadership visibility.
-Focus on leadership alignment and sponsorship messaging. Ensure leaders can articulate CRM’s value and reference metrics confidently.
+Thank you for pushing to keep momentum on the intranet work and for outlining how an external consultant could help us gather meaningful staff input to shape the new year. I share your goal of getting solid evidence and recommendations in place as early as possible.
 
+At the same time, IT has flagged competing priorities through November–December. To keep everyone aligned—and to make sure we follow due process—I’d like to propose the following path that lets us prepare now without putting the teams under strain:
 
+What we can do now (Nov–Dec):
+	•	Finalize and route the Business Case for approval. This gives us the formal go-ahead and clarity on scope, budget, and phasing.
+	•	Prepare procurement materials for the consultant (scope of work, evaluation criteria, timelines). This ensures we can move quickly once approved.
+	•	Capture IT’s technical questions and assumptions (architecture, integrations, security/compliance, support model) so they’re reflected in the consultant’s scope.
+	•	Hold our Monday working session to confirm objectives, draft the consultation approach at a high level, and agree on roles/availability through year-end.
 
+When we engage the consultant:
+	•	Stakeholder consultations would begin immediately after Business Case approval and completion of the procurement step (to ensure transparency and audit readiness).
+	•	If timing lands late December, we can schedule the bulk of consultations for early January, with the consultant using December to complete desk research and discovery planning (no staff outreach yet) so that we still hit the ground running in the new year.
 
+Why this helps:
+	•	Respects IT and Communications resource constraints in Nov–Dec.
+	•	Keeps momentum by advancing the Business Case and procurement in parallel.
+	•	Ensures Sarah and Scott have visibility on how we are engaging the consultant and that we’ve met all approval requirements before staff-facing work begins.
 
+Decision points for Monday’s meeting:
+	1.	Confirm the problem statement, objectives, and success criteria for Phase 1.
+	2.	Align on a draft Scope of Work for the consultant (what’s in/out, deliverables, timeline).
+	3.	Identify named contacts and availability from Comms and IT for Nov–Dec preparation tasks.
+	4.	Agree on a target timeline:
+	•	Business Case finalized & submitted: week of Nov 10
+	•	Procurement package ready: week of Nov 17
+	•	Approvals window: late Nov–Dec
+	•	Consultant kickoff (staff consultations): upon approval (late Dec or early Jan)
 
-Change Management Focus (Engagement & Alignment Strategy)
-FMSS (Financial Management System Support Services)
-Financial officers, project coordinators, analysts
-High (Daily Users)
-Provides financial and administrative support tailored to the needs of communities. CRM will become their core tool for tracking client projects, funding requests, and performance metrics.
-Engagement Focus: Position CRM as a tool that simplifies their work and eliminates double entry. Deliver tailored training, early access to sandbox environments, and department-led showcases to boost comfort and confidence. Empower early adopters within FMSS to share practical wins across teams.
-IELR (Indigenous Engagement, Law & Relations)
-Relationship managers, legal counsel, paralegals
-High (Client-Facing, Daily Users)
-Highly client-facing; manages client relationships, legal documentation, and engagement tracking. CRM will centralize client data and streamline collaboration.
-Engagement Focus: Emphasize CRM as a single source of truth for client information. Use client-case scenarios in demos to show relevance. Create a feedback loop to capture field-level needs. Enable IELR champions to coach peers during rollout.
-Default Management Prevention Pilot
-Governance advisors, relationship officers
-Moderate to High (Frequent Users)
-Supports communities in strengthening governance and restoring financial autonomy. CRM will track community interventions, progress, and outcomes.
-Engagement Focus: Reinforce CRM as a transparency and accountability tool that strengthens community partnerships. Provide visual dashboards to show measurable results. Encourage ongoing reflection sessions to improve how data is used for decision-making.
-CDI (Community Development Initiatives)
-Relationship managers, advisors, project leads
-High (Client-Facing, Frequent Users)
-Works with communities to support capacity building and project implementation. CRM will simplify tracking of milestones and outcomes.
-Engagement Focus: Position CRM as a collaboration hub connecting CDI with other departments. Share “day-in-the-life” stories showing workflow improvements. Offer role-based training modules focusing on client progress tracking.
-Strategic Opportunities (SO)
-Legal counsel, data analysts, program officers
-Moderate (Analytical Users)
-Oversees strategic partnerships, legal data, and analysis. CRM provides access to structured, integrated data for insights and reporting.
-Engagement Focus: Engage SO through data visualization and analytics-focused sessions. Highlight how CRM supports better decision-making. Encourage cross-department collaboration for consistent data standards.
-Corporate Services (CS)
-IT, Finance, Payroll, Administration, Procurement
-Low to Moderate (Support Users)
-Provides internal operational support; not client-facing. CRM usage will be limited to internal alignment and information access.
-Engagement Focus: Keep communications concise and awareness-level. Focus on how CRM enhances organizational efficiency and supports their internal workflows (e.g., budget alignment, reporting accuracy). Involve IT and Finance early in post-launch support.
-Communications & Public Affairs (PA)
-Communications officers, engagement specialists
-Low to Moderate (Occasional Users)
-Uses CRM to access data for public updates, reports, and stakeholder outreach.
-Engagement Focus: Keep the team informed with timely updates, visuals, and messaging templates. Involve them in designing awareness campaigns. Equip them to communicate CRM milestones and successes effectively to staff.
-Board Secretariat / Executive Office
-Executive assistants, Board liaisons
-Low (Dashboard Users)
-Accesses CRM for executive reports and summary dashboards rather than data entry.
-Engagement Focus: Deliver concise, dashboard-focused briefings showing progress and outcomes. Reinforce CRM’s role in faster reporting and transparency. Provide guidance on interpreting CRM metrics for Board materials.
-Regional Offices (Ottawa, Winnipeg, Vancouver, Montreal)
-Regional leads, support officers
-Mixed (Varies by Region)
-Provides localized support to communities and updates client data regionally.
-Engagement Focus: Emphasize equitable access to CRM tools and support. Provide region-specific demo sessions and ensure regional Champions gather feedback. Highlight CRM’s ability to unify regional and HQ data.
-Executive Leadership (CEO, Executive Chair, Directors)
-CEO, Directors
-Low to Moderate (Strategic Users)
-Provides overall direction and oversight; uses CRM data for monitoring progress, resource allocation, and strategic insights.
-Engagement Focus: Align leaders around consistent success messaging. Provide tailored briefings with adoption metrics and impact stories they can share in staff meetings. Equip them to model CRM-driven decision-making and communicate benefits confidently to reinforce adoption across departments.
+If this approach works for you, I’ll incorporate it into Monday’s agenda and share a short one-pager (objectives, scope highlights, timeline, and next steps) for review beforehand.
 
+Thanks again for driving this—looking forward to aligning on Monday.
 
+Thank you for continuing to drive momentum on the intranet work. I agree that having strong staff insights early will set us up well for the new year.
 
+At the same time, IT has flagged competing priorities through November–December. To keep us aligned—and ensure we follow FMB’s procurement and approval processes—I propose the following approach that preserves momentum without overloading teams:
+
+What we can do now (Nov–Dec):
+	•	Finalize and route the Business Case to Sarah and Scott for review/approval, confirming scope, budget, and phasing.
+	•	Advance procurement readiness for the consultant:
+	•	Draft/refine the Scope of Work (SoW) and evaluation criteria (deliverables, approach to consultations, timelines).
+	•	Complete a light market check and invite 2–3 comparative proposals/quotes (in line with FMB policy) to demonstrate due process and value-for-money before selection.
+	•	Capture IT considerations (architecture, integrations, security/compliance, support model) so they’re baked into the SoW and any vendor Q&A.
+	•	Keep our Monday working session to confirm objectives, align on the consultation approach at a high level, and agree on roles/availability through year-end.
+
+When we engage the consultant:
+	•	Staff-facing consultations begin after Business Case approval and completion of the comparative procurement step (to ensure transparency and audit readiness).
+	•	If approvals land late December, the consultant can use December for desk research and discovery planning (no staff outreach) so that staff consultations start in early January without delay.
+
+Monday’s decision points:
+	1.	Confirm problem statement, objectives, success criteria (Phase 1).
+	2.	Review and agree the draft SoW and evaluation criteria for the consultant (what’s in/out, deliverables, timeline).
+	3.	Roles & availability: what IT support is needed for consultations and what Heather will cover from Communications.
+	4.	Target milestones:
+	•	Business Case submitted to Sarah/Scott: week of Nov 10
+	•	Procurement package (SoW + criteria + vendor list) ready: week of Nov 17
+	•	Comparative quotes & recommendation compiled: late Nov–Dec
+	•	Consultant kickoff (staff consultations): upon approval (late Dec/early Jan)
+
+If you’re comfortable with this plan, I’ll fold it into Monday’s agenda and circulate a one-pager (objectives, SoW highlights, procurement steps, and timeline) beforehand.
+
+Thanks again for championing this. Looking forward to aligning on Monday.
