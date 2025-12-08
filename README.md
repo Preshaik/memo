@@ -1,22 +1,9 @@
-Subject: 🎄 You’re Invited! Join Us for Our Virtual Holiday Celebration – December 18th!
+I believe the Communications and Engagement Plan already provides a good level of detail regarding the types of communications we’ll be issuing and the roles responsible for each. I’m not sure whether Sarah has fully reviewed or approved it yet, but this is the approach we’re working with for now.
 
-Hi everyone,
+For the all-staff awareness emails, the plan currently states bi-weekly updates, though we can adjust this to monthly if preferred. I’ll be managing those communications. Stephen’s role is limited to helping with the Envoke template design—he won’t be sending out any communications. Once he grants you access, you’ll be able to prepare and send messages directly through Envoke as needed.
 
-We’re excited to invite you to our upcoming Virtual Holiday Celebration taking place on Thursday, December 18, 2025! The holiday season is upon us, and we can’t wait to celebrate together as a team.
+I can also connect with Stephen about setting up recipient lists to support more targeted outreach. For example, we can create a list specifically for CRM champions, and another for the client-facing departments who will be core CRM users. Envoke already contains departmental recipient lists, so that should be straightforward.
 
-Please take a moment to confirm your attendance by responding to the invitation that was sent out earlier. The agenda is included in that message, and we have a fun, activity-packed program planned!
+Not all communication will go through Envoke, as some updates may be better delivered through other channels. For example, executive updates may be shared by Sarah during SLT meetings or directly with Scott. Product owners may also choose to send their own communications outside of Envoke. However, for all-staff updates, I would recommend using Envoke for consistency.
 
-To help set the festive mood, we encourage everyone to join in wearing your favourite holiday attire—whether that’s a cheerful outfit, an ugly sweater, or anything that brings festive joy. We’ll also have a selection of holiday-themed Teams backgrounds available for you to use during the celebration.
-
-And yes… we know many of you love a little friendly competition! There will be lots of games and exciting prizes to be won throughout the event. Come ready to participate and maybe take home a holiday surprise!
-
-For staff who will be working from the office that day, we’ve got a special treat:
-🎄 Pizza lunch
-☕ Hot chocolate and festive snacks
-🎶 Holiday music to set the mood
-
-Come dressed in your festive best and enjoy a warm, cheerful time with colleagues before we head into the holiday break.
-
-We look forward to celebrating with you!
-
-Warm regards,
+I’ve attached the image here for reference. If you’d like me to break this down further or expand on any part of the plan, just let me know. I see you’re in a meeting now—feel free to let me know when you’re available for a call.
