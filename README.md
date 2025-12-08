@@ -1,40 +1,10 @@
-I hope you’re both doing well.
+Hi Sarah,
 
-Stephen has put together a draft design for our Envoke template, which we’ll use for CRM communications until the new name is officially announced (we can always refresh the design then). This means we’re ready to start sending out our updates.
+I’ll be away on vacation starting tomorrow, so I wanted to ensure you have the most up-to-date information on the intranet project before I leave. We held our kickoff meeting last week, and Heather will begin her consultations this week through to the 18th. Helen and Chris are currently coordinating with Chandra to schedule time for Heather to meet with Scott, and Robert will also be speaking with Chandra to explore the possibility of allocating a few minutes at an upcoming SLT meeting for Heather to provide an overview of the project.
 
-Our next newsletter is scheduled for this Thursday and will include:
+I’ve attached the revised business case along with the initial Business Requirements Document we prepared for the intranet project. These have already been shared with Helen, who will be forwarding them to Heather. They’re available here for your review as well, and please let me know if you would like them filed or passed along to Jacqueline.
 
-The names of the CRM change champions
+I also wanted to flag that the initial scope of requirements may expand once Heather completes her consultations, as additional elements may arise—particularly from Scott or the SLT.
 
-The names of the UAT volunteers
+If you have any questions, please feel free to let me know.
 
-A few additional project updates
-
-Please see the attached draft and let me know if there’s anything you’d like to add or adjust in the newsletter.
-
-I’m also thinking it would be helpful to send out at least one more piece of content before we break for the holidays, to keep momentum and build awareness ahead of launch. Some ideas include:
-
-Short “why we’re changing” stories
-
-Screenshots or snippets that show how the new CRM will solve real pain points
-
-Highlights of key features we want to spotlight
-
-Any fun facts or teaser content we can share
-
-If you have any points you’d like included, suggested messages, or screenshots you’d like us to feature, please send them my way. I’m happy to develop the draft content and then share it back with you for review before we send it out via the Envoke template.
-
-Thanks so much, and I look forward to your input.
-
-Before I draft that message, I wanted to check in with both of you to gather any content you’d like included in this pre-holiday Envoke update.
-Here are a few ideas I had, but please feel free to add or adjust based on what you think would be most valuable to highlight:
-
-A brief “why we’re changing” message
-
-Any key features or improvements in the new CRM that you’d like to spotlight
-
-Short snippets or screenshots that show how the CRM addresses current pain points
-
-Any fun facts, teaser content, or early insights we want to share
-
-If there are specific points, messages, or themes you want featured, please send them my way. Even a few bullets or high-level ideas are fine—I can expand on them, draft the content, and then share it back with you for review before it goes out through Envoke.
