@@ -1,7 +1,24 @@
- and am still working through the training videos.
+rttv
+Following the vote, FIRE received the highest number of submissions, with DCS coming in a very close second.
 
-By Monday next week, I’m hoping to begin meeting with the teams to better understand each business line’s perspective and how they use the CRM in their day-to-day work. I think it’s important to capture their viewpoints so I can develop more targeted training for each team, as well as FAQs tailored to their needs.
 
-Regarding the general CRM overview, since we already covered this during the train-the-trainer session, I wanted to confirm whether we still plan to run a similar session for the champions. Alternatively, I was considering focusing on developing training materials for the general CRM overview instead.
+During the Lateral Kindness session at the November retreat, we had a thoughtful discussion about the meaning and tone of the names put forward. While FIRE resonated strongly with many, the group reflected on how the word fire can also carry unintended or negative associations — something we’re mindful of as an organization grounded in care, respect, and relationship-building.
 
-Please let me know whether the preference is to hold general navigation overview sessions or to focus on more business-line-specific training sessions.
+With that in mind, and following further discussion, the decision was made to move forward with:
+
+✨ DCS — Digital Client Stewardship ✨
+
+This name reflects our shared commitment to strong client relationships, responsible data stewardship, and a connected, digital way of working across teams.
+
+⸻
+
+🎁 Celebrating Our Contributors
+
+As promised, we’re excited to recognize and thank the individuals behind the top submissions.
+
+👏 Congratulations to [Name], who submitted DCS — Digital Client Stewardship
+👏 And a big thank-you to [Name], who submitted FIRE — First Nations Information, Relationships, and Engagement
+
+🎉 Both contributors will receive a gift card as a token of appreciation for helping shape the identity of our new system.
+
+⸻
