@@ -55,6 +55,7 @@ DECK STRUCTURE (FOLLOW THIS ORDER)
 14. FAQ (only what the guide supports)
 15. Support / Contact / Resources (from the guide)
 16. Optional Appendix: Glossary / Acronyms / Reference tables (only from guide)
+17. 
 
 OUTPUT QUALITY CHECK (DO THIS BEFORE FINALIZING)
 - Every step matches the User Guide exactly.
@@ -63,3 +64,19 @@ OUTPUT QUALITY CHECK (DO THIS BEFORE FINALIZING)
 - No filler slides, no generic advice, no external knowledge.
 
 Make the final deck presentation-ready.
+
+
+hope you’re both doing well.
+
+I wanted to let you know that I’ve put together a draft General Navigation User Guide for DCS users. This is intended to cover the basics — how to move around the system, create and view records, create views, and manage a few key items — as a foundational guide for new and existing users.
+
+Before I finalize and incorporate this content into the training slide deck I’m currently working on, I would really appreciate your review and input. In particular, I’d love your thoughts on:
+	•	Anything important that may be missing
+	•	Anything that may not be necessary at this stage
+	•	Any areas we should expand, simplify, or adjust based on how teams actually use DCS
+
+Your feedback will help ensure the guide and the training materials are practical, accurate, and aligned with user needs.
+
+Once the training slides are completed, I’ll be sharing those with you as well for review.
+
+Thank you so much in advance — I truly appreciate your guidance on this.
