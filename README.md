@@ -65,18 +65,106 @@ OUTPUT QUALITY CHECK (DO THIS BEFORE FINALIZING)
 
 Make the final deck presentation-ready.
 
+DCS Support Guide (Quick Help + Who to Contact)
 
-hope you’re both doing well.
+DCS = Digital Client Stewardship
+Go-Live: Feb 23, 2026 (update if needed)
+Purpose: Help you get quick support in DCS and keep issues moving to the right people.
 
-I wanted to let you know that I’ve put together a draft General Navigation User Guide for DCS users. This is intended to cover the basics — how to move around the system, create and view records, create views, and manage a few key items — as a foundational guide for new and existing users.
+⸻
 
-Before I finalize and incorporate this content into the training slide deck I’m currently working on, I would really appreciate your review and input. In particular, I’d love your thoughts on:
-	•	Anything important that may be missing
-	•	Anything that may not be necessary at this stage
-	•	Any areas we should expand, simplify, or adjust based on how teams actually use DCS
+1) Before You Ask for Help (30-Second Checklist)
 
-Your feedback will help ensure the guide and the training materials are practical, accurate, and aligned with user needs.
+Try these first — it solves most issues quickly:
+	•	✅ Refresh your browser / close & re-open DCS
+	•	✅ Confirm you’re in the correct area (Clients / Activities / etc.)
+	•	✅ Check your filters, views, or search spelling
+	•	✅ Try another browser (Chrome / Edge) if something looks off
+	•	✅ If you’re blocked, capture the details below and contact your Champion
 
-Once the training slides are completed, I’ll be sharing those with you as well for review.
+⸻
 
-Thank you so much in advance — I truly appreciate your guidance on this.
+2) Who to Contact (Support Escalation Path)
+
+Step 1 — Contact your DCS Champion (first stop)
+	•	Your Champion helps with “how do I…” questions, quick fixes, and routing issues.
+
+Step 2 — If unresolved: Product Owner (PO)
+	•	POs confirm process/requirements and decide whether it’s working as designed or needs change.
+
+Step 3 — If technical/system issue: IT / TND (as needed)
+	•	IT handles access, errors, outages, integrations, performance, and bugs requiring fixes.
+
+✅ Always follow this order: Champion → Product Owner → IT/TND
+
+⸻
+
+3) Where to Ask (Preferred Channels)
+
+Primary Help Channel: Teams – “DCS Help Desk” (insert link)
+Backup (if urgent or Teams unavailable): [Support Email / Ticket Link] (insert)
+Training & Resources Site: [Insert link]
+
+⸻
+
+4) What to Include When You Ask (So We Can Help Faster)
+
+Copy/paste this template into your message:
+
+Subject: DCS Support – [Short Description]
+	•	What I was trying to do:
+	•	Where in DCS (area/page):
+	•	Steps I took (1–3 bullets):
+	•	What happened (include exact message if any):
+	•	Screenshot (if possible):
+	•	Urgency: Low / Medium / High
+	•	Impact: One person / My team / Multiple teams
+
+📌 Tip: If you see an error message, include the exact wording.
+
+5) Common Issue Types (Where They Go)
+
+Champion can help with:
+	•	Navigation (“Where do I find…?”)
+	•	Views/filters/search
+	•	Basic “how-to” steps
+	•	Training links and resources
+	•	Simple troubleshooting and quick tips
+
+Product Owner handles:
+	•	“This doesn’t match our process”
+	•	Workflow questions / business rules
+	•	Form fields, data required, approvals
+	•	Requests for enhancements or changes
+
+IT / TND handles:
+	•	Login/access problems
+	•	System errors or outages
+	•	Performance issues (slow loading)
+	•	Permissions/role access issues
+	•	Broken features / bugs
+
+⸻
+
+6) Response Expectations
+	•	Same day: High-impact issues blocking work (during business hours)
+	•	1–2 business days: Standard questions / minor issues
+	•	Tracking: Issues may be logged for follow-up and fixes where needed
+
+⸻
+
+7) Quick Reminders for Go-Live
+	•	✅ Use DCS for your work once go-live is confirmed
+	•	✅ Keep notes of issues and report them in the DCS Help Desk channel
+	•	✅ Office hours/support sessions will run during go-live week (watch for schedule)
+
+⸻
+
+Key Contacts (Fill In)
+
+DCS Help Desk Teams Channel: [Insert link]
+DCS Champions List: [Insert link or location]
+Product Owners: [Insert names]
+IT / TND Support Contact: [Insert name/email]
+Training & Resources Site: [Insert link]
+
