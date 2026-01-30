@@ -71,27 +71,90 @@ DCS = Digital Client Stewardship
 Go-Live: Feb 23, 2026 (update if needed)
 Purpose: Help you get quick support in DCS and keep issues moving to the right people.
 
-⸻
-Hi everyone,
 
-You’re invited to our DCS (Digital Client Stewardship) – General Navigation Training happening the week of February 9. This session is designed to help all DCS users feel confident navigating the system ahead of go-live.
+Subject: Preparing for DCS Cutover: Data Migration, What to Expect + What You Need to Do
 
-Agenda (General Navigation)
+Hello everyone,  
 
-Welcome + what to expect before go-live
+As we get closer to go-live, we’re entering one of the most important phases of the transition to DCS (Digital Client Stewardship): Data Migration and Cutover Preparation.
 
-How to access DCS and orient yourself (home area, main navigation)
+This message explains what data migration is, why it’s needed, what the cutover period means, and what staff can do now to prepare.
 
-Touring the main areas you’ll use most often (where to find key information)
+---
 
-Searching, filtering, and switching views
+## What is data migration?
+Data migration is the process of moving our existing CRM information (client records and key related information) from the current system into DCS. Migration ensures the information we rely on will be available in the new system so teams can continue their work without disruption.
 
-Basic record navigation (opening records, moving between tabs/sections)
+---
 
-Where to find training resources and support (Champions + Help Desk channel)
+## Why do we need to migrate data?
+We migrate data so that:  
+- important client history and context isn’t lost  
+- staff can continue work in DCS without starting from scratch  
+- teams can access needed information in one place  
+- the transition from the old system to DCS is smooth and coordinated  
 
-Q&A
+---
 
-📌 Recording: This session will be recorded and shared afterward for anyone who can’t attend live.
+## What is the cutover period (and what happens during it)?
+To complete the migration, we will have a planned cutover period beginning the week of February 16.
 
-Thank you, and looking forward to seeing you there.
+Cutover is the controlled transition window where we move from the old CRM to DCS. During this period:  
+- the old CRM will be temporarily locked (staff will not be able to access it)  
+- the project team will begin moving and validating data in preparation for go-live  
+- we will use this window to ensure the right information is available and usable in DCS  
+
+The goal is to complete the transition cleanly, so DCS is ready for use at go-live.
+
+---
+
+## What is data validation (and why does it matter before go-live)?
+Before and during migration activities, the team performs data validation, which means verifying that data transferred into DCS is accurate, complete, and showing up correctly.  
+
+Validation helps ensure:  
+- key client records appear as expected  
+- important details (names, contact information, notes) are retained  
+- major gaps or errors are identified early and resolved before go-live  
+
+---
+
+## What you need to do now (light preparation before cutover)
+Because the old system will be locked during cutover, staff who currently use the old CRM should begin light preparation now so you still have access to information you may need while the system is unavailable.
+
+### 1) Create or confirm your client list  
+- Identify the clients you actively work with  
+- Make sure you have a clear list you can reference during the cutover window  
+
+### 2) Ensure key interactions are captured  
+Please ensure important interactions are documented in the current system, including:  
+- meetings  
+- calls  
+- workshops  
+- notes and outcomes  
+- key next steps  
+
+### 3) Gather essential contact details  
+Confirm you have access to key details such as:  
+- client names  
+- email addresses  
+- phone numbers  
+- any critical notes you frequently rely on  
+
+### 4) Flag anything critical  
+If there is information you consider essential or high-risk, please flag it through your Champion so it can be reviewed as part of migration readiness.
+
+---
+
+## Support and resources  
+- DCS Training & Resources Site: [Insert link]  
+- General Navigation User Guide: [Insert link]  
+- DCS Support Guide (Quick Help + Who to Contact): [Insert link]  
+- DCS Champions List: [Insert link]  
+- IT Support / Client Portal: [Insert link]  
+
+---
+
+Thank you for taking these steps early. Preparing now will help reduce stress during the cutover period and support a smooth transition into DCS.
+
+Warm regards,  
+The DCS Project Team
