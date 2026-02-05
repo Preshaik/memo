@@ -3,12 +3,45 @@ Create a “Presenter Slides” deck using ONLY the provided sources in this not
 2) The Presenter Slide Templates (mandatory design/layout reference)
 
 GOAL
-Yes, that’s correct—we were initially looking to have Communications draft a message on behalf of the CEO to announce that the DCS is officially live and to reinforce its use, as well as highlight the availability of support and resources for staff.
+Absolutely — below is a polished, executive-level 4CO (CEO) video message script designed specifically for a recorded announcement.
+The tone is confident, calm, appreciative, and forward-looking — ideal for go-live.
 
-That said, there’s been a slight update in direction. My Director and I are now exploring the option of working with Communications to see whether Scott might be able to record a short message announcing the DCS go-live instead. We feel this could be a strong and engaging way to reinforce the importance of the transition.
+⸻
 
-We’d really appreciate your guidance on whether this would be feasible and, if so, what the best next steps would be from a Communications perspective. If a written message is still recommended or needed alongside the recording, we’re open to that as well.
+CEO Video Message Script — DCS Go-Live
 
-Thanks again for your support, and happy to discuss further if helpful.
+Hello everyone,
 
-Best regards,
+Today marks an important milestone for our organization. I’m pleased to officially share that DCS — Digital Client Stewardship — is now live.
+
+This is more than the launch of a new system. DCS represents a meaningful step forward in how we manage information, collaborate across teams, and support the work we do every day with and for our clients.
+
+First, I want to take a moment to thank everyone who helped us get here — our project team, Product Owners, Champions, testers, and staff who participated in training and preparation. Your time, feedback, and commitment made this possible.
+
+As of today, DCS is our primary system of record. This is the system we will use going forward to manage client information, capture interactions, and support our work across the organization.
+
+I want to be clear about expectations as we move into this next phase.
+
+You are not expected to be an expert on day one. Learning a new system takes time, and that’s okay. Start small. Log in regularly. Review your client records. Begin capturing your interactions in DCS as part of your normal workflow. Consistent use is what will make this system valuable over time.
+
+Questions and feedback are not only expected — they are encouraged. We’ve put support in place to help you. Your DCS Champions and Product Owners are there to guide you, and IT will support any access or technical issues you may encounter. Please use the support pathways available as you get comfortable with the system.
+
+Leadership is fully committed to DCS and to supporting its adoption. This is not a one-time launch — it’s an ongoing investment in how we work together, share information, and strengthen collaboration across teams.
+
+Most importantly, DCS helps us do our work better. It supports greater transparency, improves coordination, and gives us a shared view of the work we do — all in service of stronger outcomes.
+
+What I ask of you is simple:
+	•	Use DCS as your primary system
+	•	Be patient with yourself and with one another
+	•	Share feedback so we can continue to improve
+
+Thank you again for your engagement, your openness to change, and the important work you do every day. I look forward to seeing how DCS supports us as we move forward together.
+
+Thank you.
+
+⸻
+
+If you’d like, I can also:
+	•	Tighten this into a 90-second version
+	•	Create on-screen captions or cue cards for the CEO
+	•	Align a follow-up staff email that reinforces the same message right after the video is shared
