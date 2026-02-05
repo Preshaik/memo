@@ -35,3 +35,11 @@ Welcome to DCS — and thank you for being part of this next chapter.
 
 Warm regards,  
 The DCS Project Team
+
+Good morning, Stephen. I hope you’re doing well.
+
+As you may know, the DCS is scheduled to go live on February 23rd. To mark the launch, we’d like to share a brief leadership message on go-live day. At Sarah’s request, this would be a short video message from Scott.
+
+I’m currently working with the Communications team to develop the messaging, and I wanted to give you an early heads-up that we may need to schedule a recording session with Scott ahead of February 23rd. This will allow us to have the video ready and available on go-live day.
+
+Thank you very much, and please let me know if you have any questions.
