@@ -69,3 +69,29 @@ Monday marks a big step forward for how we manage client information and collabo
 We’re almost there — and we’re ready.
 
 Let’s make DCS go-live a success together. 💥
+
+The DCS Training Site is your go-to hub for everything you need to feel confident using the system.
+
+Inside, you’ll find short videos, guides, and practical walkthroughs covering:
+
+🔹 DCS Basics & Navigation
+	•	System overview
+	•	How to move through menus and views
+	•	Understanding dashboards and layouts
+
+🔹 Core Data Management
+	•	Understanding Accounts
+	•	Understanding Contacts
+	•	Managing client records and information
+
+🔹 Client Journey & Engagement
+	•	Logging activities, meetings, and calls
+	•	Managing events and outreach
+	•	Tracking engagement history
+
+🔹 Business Line Workflows
+	•	Workflow essentials tailored to each business line
+	•	Process-specific guidance to support your daily work
+
+Whether you’re new to CRM systems or simply need a refresher, the training site is designed to support just-in-time learning — before and after go-live.
+
