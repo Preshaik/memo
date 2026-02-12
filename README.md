@@ -1,97 +1,65 @@
+🚀 DCS Launch Countdown: T-1 Day — Tomorrow is Go-Live!
 
-DCS Launch Countdown: T-2 Days — We’re Almost There!
+We’re almost there!
 
-We’re just two days away from launching DCS (Digital Client Stewardship) — and the excitement is building!
+Digital Client Stewardship (DCS) officially goes live tomorrow — Monday!
 
-As we approach go-live on Monday, now is the perfect time to take a few quick steps to ensure you feel confident, prepared, and ready to hit the ground running.
+After months of collaboration, testing, training, and preparation, we are ready to transition to our new system.
 
-⸻
-
-🎓 Visit the DCS Training Site
-
-If you haven’t explored the DCS Training Site yet, now’s the time!
-
-The training materials are designed to give you:
-	•	A clear walkthrough of general navigation
-	•	Step-by-step guidance on key tasks
-	•	Quick reference guides and support tools
-	•	Recorded training sessions for easy replay
-
-👉 Click here to access the DCS Training & Resource Site:
-[Insert Training Site Link]
-
-Even 15–20 minutes of review can make a big difference on go-live day.
+Here’s what you need to know to feel confident and prepared for Day 1.
 
 ⸻
 
-📞 Know Who to Contact on Go-Live
+📅 What to Expect on Monday Morning
+	•	DCS will officially replace the old CRM.
+	•	The current CRM link in your F&FMB bookmarks will be updated to the new DCS link.
+	•	You will also receive an Envoke communication with direct access to DCS.
+	•	Support resources will be active and ready.
 
-We want you to feel fully supported from Day One. Here’s your quick reminder on who to reach out to:
-
-🔐 Login or Access Issues?
-Go directly to IT for immediate support.
-
-❓ “How do I…?” Questions or Process Clarifications?
-Contact your DCS Champion — they are your first line of support for quick guidance and navigation help.
-
-🔎 Complex Issues or System Concerns?
-Your Champion will escalate to the Product Owners if needed.
-
-We’ll continue to reinforce this support model throughout launch week.
+When you log in Monday morning, you’ll be entering DCS — our new system of record.
 
 ⸻
 
-🌟 Know Your Champions
+🔐 How to Access DCS
 
-Your DCS Champions are ready and excited to support you.
+You will be able to access DCS:
+	•	Through your updated F&FMB bookmarks
+	•	Via the link shared in tomorrow’s official launch communication
 
-They’ve completed:
-	•	Train-the-Trainer sessions
-	•	Hands-on system walkthroughs
-	•	Readiness activities to prepare for launch
-
-👉 View the full list of Champions here:
-[Insert Champions List Link]
-
-Save their names now — you’ll thank yourself on Monday!
+If you experience any login or password issues, please contact IT directly for assistance.
 
 ⸻
 
-🎯 Final Reminder Before Launch
+🧭 Need Help Navigating?
 
-Between now and go-live:
-	•	Review your training materials
-	•	Ensure you’ve downloaded any final information from the old CRM (if applicable)
-	•	Make sure you know your support contacts
+For navigation questions, “how do I?” scenarios, or workflow guidance:
 
-Monday marks a big step forward for how we manage client information and collaborate across teams.
+👉 Reach out to your DCS Champion first.
 
-We’re almost there — and we’re ready.
+They are ready to support you and help you feel comfortable using the system.
 
-Let’s make DCS go-live a success together. 💥
+You can also visit the DCS Training & Resource Site, which includes:
+	•	Full training session recordings
+	•	Short how-to videos
+	•	Step-by-step guides
+	•	Business line workflow materials
 
-The DCS Training Site is your go-to hub for everything you need to feel confident using the system.
+Even a quick refresher tonight can make Day 1 smoother.
 
-Inside, you’ll find short videos, guides, and practical walkthroughs covering:
+⸻
 
-🔹 DCS Basics & Navigation
-	•	System overview
-	•	How to move through menus and views
-	•	Understanding dashboards and layouts
+🎉 We’re Ready — and We’re Excited!
 
-🔹 Core Data Management
-	•	Understanding Accounts
-	•	Understanding Contacts
-	•	Managing client records and information
+This launch represents a major milestone for our organization.
 
-🔹 Client Journey & Engagement
-	•	Logging activities, meetings, and calls
-	•	Managing events and outreach
-	•	Tracking engagement history
+DCS will help us:
+	•	Improve collaboration across teams
+	•	Increase visibility and transparency
+	•	Strengthen data accuracy
+	•	Support a more coordinated client experience
 
-🔹 Business Line Workflows
-	•	Workflow essentials tailored to each business line
-	•	Process-specific guidance to support your daily work
+Thank you for your engagement, feedback, and commitment throughout this journey.
 
-Whether you’re new to CRM systems or simply need a refresher, the training site is designed to support just-in-time learning — before and after go-live.
-
+We’re ready.
+We’re prepared.
+And we can’t wait to welcome you to Day One of DCS tomorrow.
