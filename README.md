@@ -91,23 +91,3 @@ We’re excited about what’s ahead — and proud of what we’ve accomplished 
 Welcome to this new chapter with DCS.
 
 
-
-Hi 
-
-I hope you’re doing well.
-
-We had originally planned to send a separate email communication following Shayla’s video message. However, to avoid overwhelming staff with multiple communications, we’re exploring the option of consolidating our messaging into Shayla’s email scheduled for Monday at 8:00 a.m.
-
-We have three key points we’d like to include:
-	•	How to access the DCS
-	•	Where to go for support
-	•	Links to the user guide and training site for reference
-
-Would Shayla be open to incorporating this content into her message?
-
-Please find the link to our draft communication attached for your review. Kindly let us know if this approach works and whether the content can be included.
-
-Thank you very much.
-
-Best regards,
-Stanley
