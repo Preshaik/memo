@@ -1,65 +1,102 @@
-🚀 DCS Launch Countdown: T-1 Day — Tomorrow is Go-Live!
+DCS Is Live! Thank You for an Incredible Launch Week
 
-We’re almost there!
+What a milestone!
 
-Digital Client Stewardship (DCS) officially goes live tomorrow — Monday!
+Digital Client Stewardship (DCS) is officially live — and what a journey it has been. From planning and testing to training and launch readiness, this moment represents months of collaboration, dedication, and teamwork across the organization.
 
-After months of collaboration, testing, training, and preparation, we are ready to transition to our new system.
-
-Here’s what you need to know to feel confident and prepared for Day 1.
+And now… we’re live! 🚀
 
 ⸻
 
-📅 What to Expect on Monday Morning
-	•	DCS will officially replace the old CRM.
-	•	The current CRM link in your F&FMB bookmarks will be updated to the new DCS link.
-	•	You will also receive an Envoke communication with direct access to DCS.
-	•	Support resources will be active and ready.
+🌟 A Huge Thank You
 
-When you log in Monday morning, you’ll be entering DCS — our new system of record.
+We want to extend a heartfelt thank you to everyone who helped bring DCS to life:
+	•	User Acceptance Testing (UAT) participants who tested workflows and provided valuable feedback
+	•	DCS Champions who supported their teams and helped build readiness
+	•	Product Owners and SMEs who shaped business processes
+	•	IT/TND teams who ensured technical readiness and migration success
+	•	Project leadership and sponsors for their guidance and support
+	•	All staff who participated in training, provided feedback, and prepared for go-live
 
-⸻
-
-🔐 How to Access DCS
-
-You will be able to access DCS:
-	•	Through your updated F&FMB bookmarks
-	•	Via the link shared in tomorrow’s official launch communication
-
-If you experience any login or password issues, please contact IT directly for assistance.
+This launch is truly a shared success.
 
 ⸻
 
-🧭 Need Help Navigating?
+💡 What Happens Now?
 
-For navigation questions, “how do I?” scenarios, or workflow guidance:
+Go-live is just the beginning.
 
-👉 Reach out to your DCS Champion first.
+As we continue settling into DCS, the focus now shifts to:
+	•	Building confidence through hands-on use
+	•	Strengthening adoption across business lines
+	•	Logging client interactions consistently
+	•	Continuing to learn and refine processes
 
-They are ready to support you and help you feel comfortable using the system.
-
-You can also visit the DCS Training & Resource Site, which includes:
-	•	Full training session recordings
-	•	Short how-to videos
-	•	Step-by-step guides
-	•	Business line workflow materials
-
-Even a quick refresher tonight can make Day 1 smoother.
+Remember: adoption is a journey, not a one-day event.
 
 ⸻
 
-🎉 We’re Ready — and We’re Excited!
+🛟 Need Support? We’re Here to Help
 
-This launch represents a major milestone for our organization.
+If you need assistance while using DCS, here’s your quick guide:
 
-DCS will help us:
-	•	Improve collaboration across teams
-	•	Increase visibility and transparency
-	•	Strengthen data accuracy
-	•	Support a more coordinated client experience
+🔐 Login or Access Issues?
+Contact IT directly for password resets, access permissions, or technical login support.
 
-Thank you for your engagement, feedback, and commitment throughout this journey.
+🧭 Navigation or “How Do I?” Questions?
+Reach out to your DCS Champion first for quick guidance and workflow support.
 
-We’re ready.
-We’re prepared.
-And we can’t wait to welcome you to Day One of DCS tomorrow.
+📋 Process or System Issues?
+Your Champion will escalate to the Product Owners if needed.
+
+We encourage everyone to use the support pathway to ensure questions are resolved quickly and efficiently.
+
+⸻
+
+📚 Helpful DCS Resources
+
+Keep these resources bookmarked:
+	•	🎥 Training Recordings & Short How-To Videos
+	•	📘 User Guides (General + Business Line Specific)
+	•	🧾 Support Guide & Escalation Path
+	•	❓ DCS FAQ Document
+
+👉 Visit the DCS Training & Resource Site here: [Insert Link]
+👉 Access the Support Guide here: [Insert Link]
+
+These tools are designed to help you build confidence quickly.
+
+⸻
+
+🚀 Keep the Momentum Going
+
+DCS strengthens how we:
+	•	Collaborate across teams
+	•	Maintain a single source of truth
+	•	Improve data accuracy
+	•	Deliver coordinated, client-centered services
+
+Your consistent use of DCS ensures we realize the full value of this investment.
+
+⸻
+
+👏 Let’s Celebrate
+
+Launching a system of this scale is no small feat. Take a moment to celebrate how far we’ve come.
+
+Thank you for your patience, adaptability, and engagement throughout this transition.
+
+We’re excited about what’s ahead — and proud of what we’ve accomplished together.
+
+Welcome to this new chapter with DCS.
+
+
+
+
+Getting started with DCS
+	•	Open DCS here: [Insert DCS link]
+	•	Or access it from your browser bookmarks: Bookmarks → IT Links → DCS
+
+Support
+	•	Access or login issues (password, permissions, unable to sign in): IT
+	•	Using DCS (navigation, where to click, “how do I…”): Your DCS Champion
