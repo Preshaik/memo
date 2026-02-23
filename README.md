@@ -1,93 +1,90 @@
-DCS Is Live! Thank You for an Incredible Launch Week
-
-What a milestone!
-
-Digital Client Stewardship (DCS) is officially live — and what a journey it has been. From planning and testing to training and launch readiness, this moment represents months of collaboration, dedication, and teamwork across the organization.
-
-And now… we’re live! 🚀
+Subject Line Options
+	•	Getting Faster Support in DCS – Please Read
+	•	Need Help in DCS? Here’s How to Get Support Quickly
+	•	How to Request DCS Support (So We Can Help You Faster)
+	•	DCS Support: What to Include When You Reach Out
 
 ⸻
 
-🌟 A Huge Thank You
+📨 COMMUNICATION DRAFT
 
-We want to extend a heartfelt thank you to everyone who helped bring DCS to life:
-	•	User Acceptance Testing (UAT) participants who tested workflows and provided valuable feedback
-	•	DCS Champions who supported their teams and helped build readiness
-	•	Product Owners and SMEs who shaped business processes
-	•	IT/TND teams who ensured technical readiness and migration success
-	•	Project leadership and sponsors for their guidance and support
-	•	All staff who participated in training, provided feedback, and prepared for go-live
+🛠 Getting Support in DCS – Let’s Make It Easy
 
-This launch is truly a shared success.
+As we continue using DCS, we want to make sure everyone gets support quickly and efficiently.
+
+To help our Champions resolve issues faster (and avoid unnecessary back-and-forth), please use the template below whenever you request support.
+
+The clearer the details, the faster we can help.
 
 ⸻
 
-💡 What Happens Now?
+📋 What to Include When Requesting Support
 
-Go-live is just the beginning.
-
-As we continue settling into DCS, the focus now shifts to:
-	•	Building confidence through hands-on use
-	•	Strengthening adoption across business lines
-	•	Logging client interactions consistently
-	•	Continuing to learn and refine processes
-
-Remember: adoption is a journey, not a one-day event.
+When emailing your DCS Champion, please copy and paste the template below into your message:
 
 ⸻
 
-🛟 Need Support? We’re Here to Help
+Subject:
 
-If you need assistance while using DCS, here’s your quick guide:
-
-🔐 Login or Access Issues?
-Contact IT directly for password resets, access permissions, or technical login support.
-
-🧭 Navigation or “How Do I?” Questions?
-Reach out to your DCS Champion first for quick guidance and workflow support.
-
-📋 Process or System Issues?
-Your Champion will escalate to the Product Owners if needed.
-
-We encourage everyone to use the support pathway to ensure questions are resolved quickly and efficiently.
+DCS Support – [Short Description]
 
 ⸻
 
-📚 Helpful DCS Resources
+What I was trying to do:
 
-Keep these resources bookmarked:
-	•	🎥 Training Recordings & Short How-To Videos
-	•	📘 User Guides (General + Business Line Specific)
-	•	🧾 Support Guide & Escalation Path
-	•	❓ DCS FAQ Document
+(e.g., Add a new Contact under an existing Account)
 
-👉 Visit the DCS Training & Resource Site here: [Insert Link]
-👉 Access the Support Guide here: [Insert Link]
+Where in DCS (area/page):
 
-These tools are designed to help you build confidence quickly.
+(e.g., Accounts, Contacts, Events)
+
+Steps I took (1–5 bullets):
+
+Please list the exact steps you took so the issue can be recreated.
+Example:
+	•	Logged into DCS
+	•	Clicked on Accounts
+	•	Selected Account ABC
+	•	Clicked “New Contact”
+	•	Entered required fields
+	•	Clicked Save
+
+What happened:
+
+(Include screenshot if possible)
+
+What should have happened?
+
+(e.g., “The system should have saved the new Contact.”)
+
+Urgency:
+
+Low / Medium / High
+
+Impact:
+
+One person / My team / Multiple teams
 
 ⸻
 
-🚀 Keep the Momentum Going
+💡 Important Tip
 
-DCS strengthens how we:
-	•	Collaborate across teams
-	•	Maintain a single source of truth
-	•	Improve data accuracy
-	•	Deliver coordinated, client-centered services
-
-Your consistent use of DCS ensures we realize the full value of this investment.
+If you see an error message, please include the exact wording in your email.
 
 ⸻
 
-👏 Let’s Celebrate
+🔁 Quick Reminder: Who to Contact
+	•	🔐 Login or access issues? → Contact IT directly
+	•	❓ Navigation or “how do I…” questions? → Contact your DCS Champion
 
-Launching a system of this scale is no small feat. Take a moment to celebrate how far we’ve come.
+⸻
 
-Thank you for your patience, adaptability, and engagement throughout this transition.
+🚀 Why This Matters
 
-We’re excited about what’s ahead — and proud of what we’ve accomplished together.
+Providing clear details helps us:
+	•	Recreate the issue quickly
+	•	Determine if it’s a training question or system issue
+	•	Escalate efficiently if needed
+	•	Reduce delays for everyone
 
-Welcome to this new chapter with DCS.
-
-
+Thank you for helping us keep DCS running smoothly.
