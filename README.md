@@ -1,90 +1,118 @@
-Subject Line Options
-	•	Getting Faster Support in DCS – Please Read
-	•	Need Help in DCS? Here’s How to Get Support Quickly
-	•	How to Request DCS Support (So We Can Help You Faster)
-	•	DCS Support: What to Include When You Reach Out
+4-Week Adoption Boost Plan
+
+WEEK 1: Remove Friction + Create Urgency
+
+1️⃣ Set a Clear Expectation
+
+Send a simple message from leadership:
+
+“All staff who use client information are expected to log into DCS by [date].”
+
+Not aggressive. Just clear.
+
+Adoption increases dramatically when expectations are explicit.
 
 ⸻
 
-📨 COMMUNICATION DRAFT
+2️⃣ Give a “First 10-Minute Task”
 
-🛠 Getting Support in DCS – Let’s Make It Easy
+People freeze when they don’t know where to start.
 
-As we continue using DCS, we want to make sure everyone gets support quickly and efficiently.
+Send:
 
-To help our Champions resolve issues faster (and avoid unnecessary back-and-forth), please use the template below whenever you request support.
+“Your 10-minute DCS starter checklist:
+	•	Log in
+	•	Open your business line view
+	•	Review 3 client records
+	•	Log 1 interaction”
 
-The clearer the details, the faster we can help.
-
-⸻
-
-📋 What to Include When Requesting Support
-
-When emailing your DCS Champion, please copy and paste the template below into your message:
+Small, achievable tasks increase engagement.
 
 ⸻
 
-Subject:
+3️⃣ Use Champions Proactively
 
-DCS Support – [Short Description]
+Instead of waiting for questions:
+	•	Champions send a 1-line Teams message:
+“Have you logged into DCS yet? Happy to walk through it with you.”
+
+Personal nudges outperform mass emails.
 
 ⸻
 
-What I was trying to do:
+WEEK 2: Increase Visibility & Social Proof
 
-(e.g., Add a new Contact under an existing Account)
+4️⃣ Share Adoption Metrics
 
-Where in DCS (area/page):
+At All-Staff:
 
-(e.g., Accounts, Contacts, Events)
+“We’re now at 62% login rate — thank you!”
 
-Steps I took (1–5 bullets):
+People follow momentum.
 
-Please list the exact steps you took so the issue can be recreated.
+⸻
+
+5️⃣ Highlight Quick Wins
+
+Share 2–3 real examples:
+	•	“FMSSS logged 120 interactions this week”
+	•	“IELR used DCS to track outreach planning”
+
+Make it visible.
+
+Adoption grows when people see usefulness.
+
+⸻
+
+WEEK 3: Make It Part of Daily Work
+
+6️⃣ Replace Old Behaviours
+
+If people are still:
+	•	Using spreadsheets
+	•	Tracking in Outlook only
+	•	Sending email updates
+
+Start gently reinforcing:
+
+“Please log all client interactions in DCS.”
+
+You must phase out old systems.
+
+⸻
+
+7️⃣ Add a Micro-Challenge
+
 Example:
-	•	Logged into DCS
-	•	Clicked on Accounts
-	•	Selected Account ABC
-	•	Clicked “New Contact”
-	•	Entered required fields
-	•	Clicked Save
 
-What happened:
+“Log at least one client interaction this week.”
 
-(Include screenshot if possible)
+Or
 
-What should have happened?
+“Business line with highest login rate wins coffee.”
 
-(e.g., “The system should have saved the new Contact.”)
-
-Urgency:
-
-Low / Medium / High
-
-Impact:
-
-One person / My team / Multiple teams
+Gamification works surprisingly well.
 
 ⸻
 
-💡 Important Tip
+WEEK 4: Reinforce & Refine
 
-If you see an error message, please include the exact wording in your email.
+8️⃣ Ask for Feedback
+
+Short poll:
+	•	What’s working?
+	•	What’s confusing?
+	•	What would make this easier?
+
+This increases psychological ownership.
 
 ⸻
 
-🔁 Quick Reminder: Who to Contact
-	•	🔐 Login or access issues? → Contact IT directly
-	•	❓ Navigation or “how do I…” questions? → Contact your DCS Champion
+9️⃣ Offer Focused Micro-Training
 
-⸻
+Instead of long sessions:
+	•	15-minute “Power Tips”
+	•	10-minute “How to log outreach properly”
+	•	Business-line-specific refreshers
 
-🚀 Why This Matters
-
-Providing clear details helps us:
-	•	Recreate the issue quickly
-	•	Determine if it’s a training question or system issue
-	•	Escalate efficiently if needed
-	•	Reduce delays for everyone
-
-Thank you for helping us keep DCS running smoothly.
+Keep it small.
