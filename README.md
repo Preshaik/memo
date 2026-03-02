@@ -1,3 +1,10 @@
+’ve started putting together a draft structure for the IT Role Backup Plan (dual absence focus) and drafted some guiding questions to help us capture the right information.
+
+Would you be open to meeting sometime this week to walk through it together? I think it’ll be easier if we go through the questions live and refine as we go.
+
+I’ll share the draft plan template and workbook with you ahead of time so you can take a quick look and add any initial thoughts.
+
+Let me know what works for you!
 4-Week Adoption Boost Plan
 
 WEEK 1: Remove Friction + Create Urgency
