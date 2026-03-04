@@ -1,3 +1,31 @@
+Objective of This Session
+
+You want to answer three main questions:
+1.	What systems does the organization use?
+2.	Who manages them?
+3.	Who do we call if something breaks?
+
+Example categories:
+1.	Identity & Access
+2.	Communication Tools (email, teams, video conferencing)
+3.	Finance Systems (ERP, Expense system, Payment systems)
+4.	Productivity Tools
+5.	Security Tools
+6.	Infrastructure & Network (Firewall platform, Internet provider, VPN tools)
+7.	Data Storage / Backup ( Sharepoint, CM,)
+8.	HR / People Systems (Dayforce
+9.	Website / External Platforms
+10.	Monitoring Tools
+
+Key Questions
+Name of the system (e.g Microsoft 365, Sage Intacct, DCS)
+What is the system used for?
+Who is the primary administrator?
+Is there a backup administrator?
+Who is the vendor or provider?
+How do we contact support for this system?
+What happens if this system is unavailable?
+
 
 
 WEEK 1: Remove Friction + Create Urgency
