@@ -1,11 +1,4 @@
-Change Management Courses (Udemy) – Completed
-Completed several change management courses focused on Prosci methodologies and the role of change champion networks to strengthen my understanding of structured change management practices and stakeholder engagement.
-
-Project Management Professional (PMP) Certification – In Progress
-Prepared for the PMP certification exam to deepen my knowledge of project management frameworks, methodologies, and best practices. The PMP examination is scheduled for later this month.
-
-Prosci Change Management Certification – Planned (Next Fiscal Year)
-Planning to pursue the full Prosci Change Management certification and exam in the coming fiscal year to further strengthen my expertise in organizational change management and support future initiatives within the organization.
+Overall, the year allowed me to build stronger relationships across teams, further develop my business analysis and change management skills, and contribute to initiatives that support the organization’s operational and strategic goals. I look forward to continuing to build on this work in the coming year and further supporting projects that improve collaboration, systems, and processes across the organization.
 
 Objective of This Session
 
