@@ -44,3 +44,18 @@ Ramp is planned to go live in May. We’ll share the official date, a quick guid
 No action needed today — this is just your heads-up so you’re not surprised when you start seeing Ramp updates.
 
 More details soon 👀
+
+Hi everyone,
+
+Just a quick teaser 👀
+
+We’re preparing to roll out Ramp — FMB’s new expense management system — as the next phase of our ERP journey.
+
+What does that mean (in plain terms)?
+Submitting expenses and receipts is about to get simpler, clearer, and more trackable.
+
+📅 Target timeline: May (details coming soon)
+✅ For now: no action needed — just stay tuned for the launch info, quick guide, and training.
+
+More to come 👀
+— The Ramp Project Team
