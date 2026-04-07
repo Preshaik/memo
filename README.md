@@ -1,30 +1,21 @@
-How to Play:
-	•	Log into the DCS system
-	•	Complete all the scavenger hunt tasks
-	•	Do not share answers in the chat until you are done
-	•	Once complete, number your answers clearly
-(e.g., 1. Answer, 2. Answer, etc.)
-	•	Post your answers in the chat
+“Alright everyone — we’re starting now! ⏱️
 
-🚫 Product Owners and DCS Champions will not participate
+You have 5 minutes, so go ahead and log into DCS and start exploring.
 
-⏱ Time Limit: 5 minutes
+Work your way through the questions and try to find as many answers as you can.
 
-🏆 Winners:
-The first two people with the most correct answers win a prize!
+Just a quick reminder — please don’t put your answers in the chat until you’ve completed all the questions. Once you’re done, number your answers clearly and then drop them in the chat.
 
-“Alright, we’re going to have a quick DCS scavenger hunt to help everyone explore the system in a fun way.
+Feel free to use the tips on the screen —
+👉 try using search,
+👉 apply filters,
+👉 and explore the different views and lists in the system.
 
-To participate, you’ll need to log into DCS and complete the tasks we’ll share.
+And don’t worry if you don’t get through everything — the goal here is just to help you get more comfortable navigating DCS.
 
-Please don’t put your answers in the chat until you’ve completed all the questions. Once you’re done, number your answers clearly — for example, 1, 2, 3 — and then post them in the chat.
+We’ll give a quick time check shortly — good luck everyone, and have fun!”
+“You’re halfway through — keep going! If you’re stuck, try using filters or checking a different view.”
 
-We’ll give everyone 5 minutes, and we’ll have a timer running.
+Final 30 seconds:
 
-The first two people with the most correct answers will win a prize — so speed and accuracy both matter!
-
-Also, just to keep things fair, our Product Owners and DCS Champions won’t be participating in this one.
-
-Most importantly, this is just to help you explore the system — so have fun with it.”
-
-DCS Scavenger Hunt – Game Rules 🎯
+“Final 30 seconds — start wrapping up and get ready to submit your answers!”
