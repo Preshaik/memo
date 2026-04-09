@@ -1,74 +1,60 @@
-Selecting a Record to View Actions and Properties
+A New Way to Access Content Manager Is Here
 
-In Web Content Manager, there is more than one way to work with a record after it appears in your search results.
+Subheading:
+Faster, easier, and now available through your web browser.
 
-You can:
-	•	click the document icon to open the document directly, or
-	•	select the checkbox on the left-hand side of the record to display the record’s available actions and properties
+Body:
+You can now access Content Manager in a new way — through Web Content Manager.
 
-When you select the checkbox beside a record, an Actions and Properties panel opens. This allows you to view record details and carry out document-related tasks without opening the document first.
+Web Content Manager offers a modern, user-friendly interface and a faster experience for everyday tasks. It gives staff another convenient way to search, open, and work with records directly from their browser.
 
-What you can do from the Actions panel
+Want to see what’s new?
 
-Once a record is selected, staff can use the options shown in the Actions tab to manage that record.
+Learn more about:
+	•	how to access Web Content Manager
+	•	how to navigate the web interface
+	•	how to search, open, and work with documents
+	•	the key differences between Web Content Manager and Desktop Content Manager
 
-Update
+Click here to explore the guide:
+[Insert link]
 
-The Update button allows staff to update information relating to the selected record, such as:
-	•	the title
-	•	other record details
-	•	metadata or properties, depending on access and permissions
+Call to action button text:
+Explore Web Content Manager
 
-This is useful when changes need to be made to the record information without changing the document itself.
+Here’s a slightly more energetic version:
 
-Check in
+Headline:
+Meet Web Content Manager
 
-The green arrow icon is used to check in a document.
+Subheading:
+A fresh, browser-based way to access Content Manager.
 
-Checking in means returning a document to Content Manager after edits have been made. This updates the record in Content Manager with the version being checked in.
+Body:
+There’s now a new way to access Content Manager — and it’s faster, easier, and more user-friendly.
 
-Check out
+With Web Content Manager, staff can access Content Manager directly through their browser and enjoy a more modern experience for day-to-day work.
 
-The red arrow icon is used to check out a document.
+Curious about what’s changed?
+Check out the guide to learn:
+	•	where to find Web Content Manager
+	•	how to use it
+	•	what the interface looks like
+	•	how it compares to the Desktop Content Manager
 
-Checking out means taking a working copy of the document so you can make changes. This lets Content Manager know that the document is being worked on.
+Click here to learn more:
+[Insert link]
 
-Check out to OneDrive
+Button text:
+See What’s New
 
-The OneDrive cloud icon is used to check out the document to OneDrive.
+My top recommendation would be this version, because it is catchy without feeling too salesy:
 
-This allows staff to work on the document through OneDrive. It is helpful when using browser-based editing or when working through Microsoft applications connected to OneDrive.
+Headline:
+A New Way to Access Content Manager Is Here
 
-Important:
-When a document is checked out to OneDrive, Content Manager captures the final version that is checked back in. It does not automatically save every temporary version or interim save created in OneDrive during editing.
+Body:
+Content Manager is now available through your web browser with Web Content Manager — a faster, more user-friendly way to access and work with records.
 
-Other options available in the Actions panel
-
-Depending on the record and permissions, staff may also see expandable sections such as:
-	•	New – create new items related to the selected record
-	•	Locations – view or manage location-related information
-	•	Request – complete actions related to record requests
-	•	Details – view more detailed record information
-	•	Navigate To – move to related record locations
-	•	Workflow – access workflow-related actions
-	•	Add/Remove – add or remove items associated with the record
-	•	More – access additional options available for that record
-
-These options may vary depending on the type of record selected and the user’s permissions.
-
-Opening a document to access more options
-
-When you open a document in Web Content Manager, additional options are available.
-
-Download the document
-
-You can download the document if you want to:
-	•	save a local copy
-	•	work on it offline
-	•	review it outside of Web Content Manager
-
-Generate a URL link
-
-You can also generate a URL link for the document.
-
-This allows you to copy a direct link to the record or document and share it with others, depending on access permissions. This can be useful when you want to direct someone to a specific document in Content Manager without asking them to search for it manually.
+Want to see how it works?
+Read the guide to learn how to access Web Content Manager, navigate the platform, and understand the differences between the Web Content Manager and Desktop Content Manager.
