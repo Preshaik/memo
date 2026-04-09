@@ -1,70 +1,74 @@
-Opening Documents, Folders, and Subfolders in Web Content Manager
+Selecting a Record to View Actions and Properties
 
-After running a search in Web Content Manager, the system displays all records that match your search criteria. These results may include documents, folders, and subfolders.
+In Web Content Manager, there is more than one way to work with a record after it appears in your search results.
 
-Opening a document
+You can:
+	•	click the document icon to open the document directly, or
+	•	select the checkbox on the left-hand side of the record to display the record’s available actions and properties
 
-To open a document from the search results, click the document icon beside the record.
-	•	For a Word document, click the Word icon
-	•	For a PDF document, click the PDF icon
-	•	Other document types can also be opened by clicking the file icon shown next to the record
+When you select the checkbox beside a record, an Actions and Properties panel opens. This allows you to view record details and carry out document-related tasks without opening the document first.
 
-This will open the selected document so you can view it.
+What you can do from the Actions panel
 
-Opening a folder
+Once a record is selected, staff can use the options shown in the Actions tab to manage that record.
 
-If your search results include a folder, you can expand it to view its contents.
+Update
 
-To open a folder:
-	•	click the small arrow beside the folder
-	•	this will expand the folder and display any documents, folders, or subfolders saved within it
+The Update button allows staff to update information relating to the selected record, such as:
+	•	the title
+	•	other record details
+	•	metadata or properties, depending on access and permissions
 
-Opening a subfolder
+This is useful when changes need to be made to the record information without changing the document itself.
 
-If a folder contains subfolders, you can expand them the same way.
+Check in
 
-To open a subfolder:
-	•	click the small arrow beside the subfolder
-	•	this will display the records or documents stored inside that subfolder
+The green arrow icon is used to check in a document.
 
-This makes it easier to move through related records without needing to run another search.
+Checking in means returning a document to Content Manager after edits have been made. This updates the record in Content Manager with the version being checked in.
 
-Working with search results
+Check out
 
-Once your search results are displayed, Web Content Manager gives you several options to help you manage and review the records returned.
+The red arrow icon is used to check out a document.
 
-Select or deselect records
+Checking out means taking a working copy of the document so you can make changes. This lets Content Manager know that the document is being worked on.
 
-You can choose to:
-	•	select all records shown in the search results
-	•	deselect all records if you no longer want them selected
+Check out to OneDrive
 
-This is useful when you want to take action on multiple records at once.
+The OneDrive cloud icon is used to check out the document to OneDrive.
 
-Refine your search
+This allows staff to work on the document through OneDrive. It is helpful when using browser-based editing or when working through Microsoft applications connected to OneDrive.
 
-If your search returns too many results, you can use the Refine Search option to narrow them down and find the exact record you need more quickly.
+Important:
+When a document is checked out to OneDrive, Content Manager captures the final version that is checked back in. It does not automatically save every temporary version or interim save created in OneDrive during editing.
 
-Save your search
+Other options available in the Actions panel
 
-If you regularly use the same search, you can save the search so you can return to it later without re-entering the search criteria.
+Depending on the record and permissions, staff may also see expandable sections such as:
+	•	New – create new items related to the selected record
+	•	Locations – view or manage location-related information
+	•	Request – complete actions related to record requests
+	•	Details – view more detailed record information
+	•	Navigate To – move to related record locations
+	•	Workflow – access workflow-related actions
+	•	Add/Remove – add or remove items associated with the record
+	•	More – access additional options available for that record
 
-Copy the URL
+These options may vary depending on the type of record selected and the user’s permissions.
 
-You can display the URL link for a record or search result and copy it for sharing or quick reference.
+Opening a document to access more options
 
-Change the view
+When you open a document in Web Content Manager, additional options are available.
 
-Web Content Manager allows you to switch how results are displayed. You can change between:
-	•	List View
-	•	Compact View
+Download the document
 
-This allows you to choose the layout that works best for you.
+You can download the document if you want to:
+	•	save a local copy
+	•	work on it offline
+	•	review it outside of Web Content Manager
 
-Filter your results
+Generate a URL link
 
-You can use the Filter option to narrow down the records shown in your results and make it easier to focus on the information you need.
+You can also generate a URL link for the document.
 
-Resize columns
-
-You can adjust or resize the columns in the search results so the information is easier to read and better fits your screen.
+This allows you to copy a direct link to the record or document and share it with others, depending on access permissions. This can be useful when you want to direct someone to a specific document in Content Manager without asking them to search for it manually.
