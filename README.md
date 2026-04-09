@@ -1,18 +1,70 @@
-What This Guide Covers
-This guide provides an overview of Web Content Manager, how to access it, how it compares to the desktop Content Manager, and how to complete common tasks such as searching, checking documents in and out, and copying links.
+Opening Documents, Folders, and Subfolders in Web Content Manager
 
-Who This Guide Is For
-This guide is for staff who use Content Manager to search for, access, edit, check in, check out, or manage records and documents as part of their day-to-day work.
+After running a search in Web Content Manager, the system displays all records that match your search criteria. These results may include documents, folders, and subfolders.
 
-What You Need to Know
-Web Content Manager is another way to access Content Manager through your web browser. Staff can choose to use either the desktop or web version. This guide highlights key differences in the user experience and explains how common tasks are carried out in Web Content Manager.
+Opening a document
 
+To open a document from the search results, click the document icon beside the record.
+	•	For a Word document, click the Word icon
+	•	For a PDF document, click the PDF icon
+	•	Other document types can also be opened by clicking the file icon shown next to the record
 
-What This Guide Covers
-An introduction to Web Content Manager, how to access it, key differences between the web and desktop experiences, and guidance on common tasks in the web platform.
+This will open the selected document so you can view it.
 
-Who This Guide Is For
-Staff who currently use Content Manager or who need to access records and documents through Content Manager as part of their role.
+Opening a folder
 
-Key Information
-Web Content Manager provides a browser-based access option for Content Manager. While many functions are similar, some tasks may look or behave differently from the desktop version. This guide is designed to help staff understand those differences and navigate the web experience with confidence.
+If your search results include a folder, you can expand it to view its contents.
+
+To open a folder:
+	•	click the small arrow beside the folder
+	•	this will expand the folder and display any documents, folders, or subfolders saved within it
+
+Opening a subfolder
+
+If a folder contains subfolders, you can expand them the same way.
+
+To open a subfolder:
+	•	click the small arrow beside the subfolder
+	•	this will display the records or documents stored inside that subfolder
+
+This makes it easier to move through related records without needing to run another search.
+
+Working with search results
+
+Once your search results are displayed, Web Content Manager gives you several options to help you manage and review the records returned.
+
+Select or deselect records
+
+You can choose to:
+	•	select all records shown in the search results
+	•	deselect all records if you no longer want them selected
+
+This is useful when you want to take action on multiple records at once.
+
+Refine your search
+
+If your search returns too many results, you can use the Refine Search option to narrow them down and find the exact record you need more quickly.
+
+Save your search
+
+If you regularly use the same search, you can save the search so you can return to it later without re-entering the search criteria.
+
+Copy the URL
+
+You can display the URL link for a record or search result and copy it for sharing or quick reference.
+
+Change the view
+
+Web Content Manager allows you to switch how results are displayed. You can change between:
+	•	List View
+	•	Compact View
+
+This allows you to choose the layout that works best for you.
+
+Filter your results
+
+You can use the Filter option to narrow down the records shown in your results and make it easier to focus on the information you need.
+
+Resize columns
+
+You can adjust or resize the columns in the search results so the information is easier to read and better fits your screen.
