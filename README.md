@@ -1,87 +1,30 @@
+1) Training Site Spotlight
 
-Here’s a polished, catchy, and newsletter-ready version you can paste into Envoke. It’s structured, engaging, and keeps things short + visual + action-driven as discussed.
+Your one-stop hub is ready ✅
+Visit the Finance Training Site for: process guides, how-to resources, quick references, and updates.
+➡️ Visit the training site: [link]
 
-⸻
+2) First Payment Run (Week of Apr 7)
 
-Subject: DCS Update: What People Are Saying + Quick Wins 💬🚀
+This month’s milestone: the first payment run processed in Sage Intacct begins the week of April 7.
+If you’re involved in approvals or have items in progress, please ensure supporting documents are attached and approvals are completed on time.
 
-⸻
+3) Top 3 Tips
 
-Hello everyone,
+Quick tips to keep things moving:
+	•	Attach key supporting documents (quotes/memos/contracts) in Intacct
+	•	Review coding before approving (where applicable)
+	•	Use the Training Site first for guides + FAQs
 
-We recently shared the DCS User Experience Survey, and we’ve started receiving some great feedback — thank you to everyone who has taken the time to share their thoughts!
+4) Ramp Teaser
 
-As we continue to grow into the system, your feedback helps us understand what’s working well and where we can continue to improve.
+Coming soon: Ramp 👀
+Ramp will become our new expense management system. Expect a simpler way to submit expenses, upload receipts, and track reimbursement status.
+More details + training will be shared ahead of launch.
 
-⸻
+5) Help / Support
 
-💬 What People Are Saying About DCS
+Need support?
+(Insert the support guide image here)
+You can also find help resources on the Training Site: [link]
 
-Here’s a snapshot of what we’re hearing so far:
-
-👉 (Insert image here)
-
-⸻
-
-🎯 DCS Scavenger Hunt Recap
-
-Thank you to everyone who participated in our recent DCS Scavenger Hunt — it was great to see so many of you exploring the system in a fun and interactive way!
-
-We hope the activity helped you:
-	•	Navigate the system with more confidence
-	•	Discover where key information lives
-	•	Get more comfortable using filters, views, and search
-
-Missed it or want a refresher?
-📄 Check out the step-by-step guide here:
-👉 [Insert Link to Scavenger Hunt Guide]
-
-⸻
-
-💡 DCS Tip of the Month
-
-Did you know you can create your own personalized view in DCS?
-This helps you focus on the information that matters most to you — making the system feel more intuitive and less overwhelming.
-
-👉 [Click here to learn how to create your own view]
-
-⸻
-
-Did you also know…
-
-You can easily view all upcoming, completed, and pending events that your business line is:
-	•	Hosting
-	•	Attending
-	•	Subscribed to
-
-👉 [Click here to learn how to filter and find this information]
-
-⸻
-
-🚀 Keep Exploring
-
-The more you use DCS, the more familiar and valuable it becomes in your day-to-day work.
-
-If you haven’t logged in recently, take a few minutes today to explore — even small actions help build confidence!
-
-⸻
-
-💬 We Still Want to Hear From You
-
-If you haven’t completed the DCS survey yet, there’s still time!
-
-Your feedback is incredibly valuable in helping us improve the system and support you better.
-
-👉 [Insert Survey Link]
-
-⸻
-
-Thank you again for your continued engagement and support as we build confidence in DCS together.
-
-If you need support:
-	•	Reach out to your DCS Champions for guidance
-	•	Contact IT for any login or access issues
-
-⸻
-
-Happy exploring! 🚀
