@@ -1,5 +1,10 @@
-If your role includes initiating purchasing requests or creating requisitions, you can now begin using the purchasing workflow in Sage Intacct.
+The Sage Intacct Training Site is now available and ready for your use. Please access the training site using the link below. It includes everything you need to get started and find support as you use Sage Intacct:
 
-This is where you’ll submit requests (and supporting documents where required) so approvals and tracking stay in one place.
+* Process guides (what’s changing and how key workflows work)
+* Training materials and recordings to refresh your knowledge at any time
+* How-to resources for purchasing, approvals, coding, and documentation
+* Quick reference guides / cheat sheets for common scenarios
+* Links to upcoming training sessions and resources shared after training
+* Support information (who to contact for login/access, approvals, coding questions, and payment/document status)
 
-Click here to watch the Purchasing training video (Sage Intacct) — a quick refresher on how to create a purchase request and submit a requisition.
+➡️ Access the Training Site: [Insert link]
